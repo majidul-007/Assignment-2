@@ -80,10 +80,43 @@
     max-width: 1440px;
     margin: auto;
   }
+
+
+
+
+
+
+
+  
   .main-branch{
     text-align: center;
+    margin-top: 50px;
   }
   main{
     background-color: black;
     color: white;
+    max-width: 1440px;
+    margin: auto;
   }
+  .mid-branch{
+    display: grid;
+    grid-template-columns:repeat(4,1fr) ;
+    text-align: center;
+    margin-top: 58px;
+  }
+  .img-container{
+  border-radius: 100px;
+  text-align: center;
+   
+  }
+  .banner-titles{
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+
+
+
+
+
+ 
