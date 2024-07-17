@@ -4,6 +4,11 @@
     font-family: "Black Han Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-size: 48px;
+  }
+  header{
+    background-color: rgba(34, 34, 34, 1);
+    padding: 50px;
   }
   
   body{
@@ -43,7 +48,7 @@
     background-image: linear-gradient(#111 ,rgba(119, 119, 119, 0.3),#111);
   }
   .front-page{
-    width: 40%;
+    width: 50%;
   }
   .banner-page{
     display: flex;
@@ -117,6 +122,17 @@
 
 
 
+
+  .banner-details{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(34, 34, 34, 1);
+    padding: 50px;
+  }
+  .img-run{
+    max-width: 380px;
+    border-radius: 18px;
+  }
 
 
  
