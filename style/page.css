@@ -74,6 +74,7 @@
   }
   .banner-description{
     font-size: 16px;
+    gap: 10px;
     color: rgba(255, 255, 255, 0.5);
   }
   .banner-title{
@@ -135,4 +136,46 @@
   }
 
 
- 
+
+
+
+
+
+  .chart-heading{
+    font-size: 30px;
+  }
+  .column {
+    float: left;
+    width: 50%;
+  }
+  .row:after {
+    content: ">BMI Calculator Chart";
+    display: table;
+    clear: both;
+  }
+
+
+
+
+
+
+
+
+  .title-organize{
+    font-size: 70px;
+    font-weight: bolder;
+    color: rgba(230, 83, 60, 1) ;
+  }
+  .last-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .guidline{
+    font-size: 30px;
+  }
+  .section{
+    max-width: 1440px;
+    margin: auto;
+  }
+    
