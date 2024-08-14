@@ -314,16 +314,6 @@ nav{
     max-width: 500px;
     border-radius: 18px;
   }
-
-
-
-
-
-
-
-  .chart-heading{
-    font-size: 30px;
-  }
   .column {
     float: left;
     width: 50%;
@@ -339,7 +329,7 @@ nav{
     max-width: 1440px;
     margin: auto;
   }
-  .calc-title {
+  .cal-title {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -647,13 +637,10 @@ input,select {
       margin: auto;
 
   }
-
   .cal-title cal {
       width: 590px;
       margin: 40px auto;
       text-align: center;
-
-
   }
 
   .overlay>.button> {
