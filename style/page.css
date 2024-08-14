@@ -139,18 +139,6 @@ nav{
     margin: auto;
   }
 
-  .training {
-    max-width: 1060px;
-    margin: auto;
-}
-
-.training-title {
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-    margin-bottom: 80px;
-}
-
 .row-1 {
     width: 100%;
     display: grid;
